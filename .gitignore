@@ -1,0 +1,5 @@
+/target/
+/tsdb_data/
+/tsdb_crypto_data/
+.DS_Store
+*.log
